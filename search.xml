@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>Raspberry Pi camera</title>
+      <title>Python实现树莓派摄像头持续录像并传送到主机</title>
       <link href="/2020/12/03/raspberry-pi-camera/"/>
       <url>/2020/12/03/raspberry-pi-camera/</url>
       
@@ -49,9 +49,9 @@
       
         <tags>
             
-            <tag> matlab </tag>
-            
             <tag> 数学分析模型 </tag>
+            
+            <tag> matlab </tag>
             
         </tags>
       
@@ -76,9 +76,9 @@
       
         <tags>
             
-            <tag> Logistic加密 </tag>
-            
             <tag> matlab </tag>
+            
+            <tag> Logistic加密 </tag>
             
             <tag> 数字图像处理 </tag>
             

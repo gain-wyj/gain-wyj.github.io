@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-03T07:44:22.457Z</updated>
+  <updated>2020-12-03T07:47:09.065Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Raspberry Pi camera</title>
+    <title>Python实现树莓派摄像头持续录像并传送到主机</title>
     <link href="https://gain-wyj.cn/2020/12/03/raspberry-pi-camera/"/>
     <id>https://gain-wyj.cn/2020/12/03/raspberry-pi-camera/</id>
     <published>2020-12-03T07:40:22.000Z</published>
-    <updated>2020-12-03T07:44:22.457Z</updated>
+    <updated>2020-12-03T07:47:09.065Z</updated>
     
     <summary type="html">
     
@@ -68,9 +68,9 @@
       <category term="数学建模" scheme="https://gain-wyj.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
     
     
-      <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
-    
       <category term="数学分析模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
     
   </entry>
   
@@ -96,9 +96,9 @@
       <category term="数字图像处理" scheme="https://gain-wyj.cn/categories/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     
     
-      <category term="Logistic加密" scheme="https://gain-wyj.cn/tags/Logistic%E5%8A%A0%E5%AF%86/"/>
-    
       <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
+    
+      <category term="Logistic加密" scheme="https://gain-wyj.cn/tags/Logistic%E5%8A%A0%E5%AF%86/"/>
     
       <category term="数字图像处理" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/"/>
     

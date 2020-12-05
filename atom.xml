@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-05T08:39:45.042Z</updated>
+  <updated>2020-12-05T11:38:03.847Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据分析模型（二）：模糊聚类分析方法及实例（附完整代码）</title>
+    <link href="https://gain-wyj.cn/2020/12/05/fuzzy-cluster-analysis/"/>
+    <id>https://gain-wyj.cn/2020/12/05/fuzzy-cluster-analysis/</id>
+    <published>2020-12-05T11:30:02.000Z</published>
+    <updated>2020-12-05T11:38:03.847Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;聚类分析是数据挖掘技术中的一种重要的方法，可以作为一个独立的工具来获得数据分布情况，它广泛地应用于&lt;strong&gt;模式识别、数据分析、图像处理、生物学、经济学&lt;/strong&gt;等许多领域。&lt;/p&gt;
+&lt;p&gt;聚类分析方法是数理统计中研究“==物以类聚==”的一种多元分析方法，及
+        
+      
+    
+    </summary>
+    
+      <category term="数学建模" scheme="https://gain-wyj.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="数学分析模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
+    
+  </entry>
   
   <entry>
     <title>教你在python中用不同的方式画不同颜色的画布</title>

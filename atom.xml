@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-05T11:38:03.847Z</updated>
+  <updated>2020-12-07T00:47:40.065Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Matlab串联矩阵函数【horzcat】详细解析</title>
+    <link href="https://gain-wyj.cn/2020/12/07/the-series-matrix-function-horzcat/"/>
+    <id>https://gain-wyj.cn/2020/12/07/the-series-matrix-function-horzcat/</id>
+    <published>2020-12-07T00:43:26.000Z</published>
+    <updated>2020-12-07T00:47:40.065Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;语法&quot;&gt;&lt;a href=&quot;#语法&quot; class=&quot;headerlink&quot; title=&quot;语法&quot;&gt;&lt;/a&gt;语法&lt;/h1&gt;&lt;pre class=&quot;line-numbers language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;C
+        
+      
+    
+    </summary>
+    
+      <category term="matlab" scheme="https://gain-wyj.cn/categories/matlab/"/>
+    
+    
+      <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
+    
+      <category term="函数" scheme="https://gain-wyj.cn/tags/%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>数据分析模型（二）：模糊聚类分析方法及实例（附完整代码）</title>
@@ -39,9 +67,9 @@
       <category term="数学建模" scheme="https://gain-wyj.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
     
     
-      <category term="数学分析模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
-    
       <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
+    
+      <category term="数学分析模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
     
   </entry>
   
@@ -155,9 +183,9 @@
       <category term="数学建模" scheme="https://gain-wyj.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
     
     
-      <category term="数学分析模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
-    
       <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
+    
+      <category term="数学分析模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%E6%A8%A1%E5%9E%8B/"/>
     
   </entry>
   

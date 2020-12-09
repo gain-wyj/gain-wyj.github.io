@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-07T00:47:40.065Z</updated>
+  <updated>2020-12-09T06:53:30.450Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数学评价模型（一）：层次分析法</title>
+    <link href="https://gain-wyj.cn/2020/12/08/analytic-hierarchy-process/"/>
+    <id>https://gain-wyj.cn/2020/12/08/analytic-hierarchy-process/</id>
+    <published>2020-12-08T13:31:16.000Z</published>
+    <updated>2020-12-09T06:53:30.450Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;层次分析法（Analytic Hierarchy Process，简称 AHP）&lt;/strong&gt;是对一些较为复杂、较为模糊的问题作出决策的简易方法，它特别适用于那些难于完全定量分析的问题。它是美国运筹学家 T. L. Saaty 教授于上世纪 70
+        
+      
+    
+    </summary>
+    
+      <category term="数学建模" scheme="https://gain-wyj.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
+    
+      <category term="数学评价模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E8%AF%84%E4%BB%B7%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>Matlab串联矩阵函数【horzcat】详细解析</title>

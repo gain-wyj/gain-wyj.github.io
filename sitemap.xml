@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gain-wyj.cn/2020/12/10/vue-3-0/</loc>
+    
+    <lastmod>2020-12-10T05:58:55.179Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gain-wyj.cn/2020/12/08/analytic-hierarchy-process/</loc>
     
     <lastmod>2020-12-09T06:53:30.450Z</lastmod>
@@ -93,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://gain-wyj.cn/categories/index.html</loc>
+    <loc>https://gain-wyj.cn/archives/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gain-wyj.cn/archives/index.html</loc>
+    <loc>https://gain-wyj.cn/categories/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     

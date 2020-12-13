@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-10T05:58:55.179Z</updated>
+  <updated>2020-12-13T07:30:33.913Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>国粹——中国象棋震撼来袭，python的赶紧上车！</title>
+    <link href="https://gain-wyj.cn/2020/12/13/chinese-chess/"/>
+    <id>https://gain-wyj.cn/2020/12/13/chinese-chess/</id>
+    <published>2020-12-13T07:22:31.000Z</published>
+    <updated>2020-12-13T07:30:33.913Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;阅读博客前，先点赞，养成习惯，顺便来个关注，这对我是最大的鼓励！！！&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;中国象棋相必大家都玩过，突发奇想，想着怎么用python把中国国粹的中国象棋做出来呢？？？？？？&lt;/p
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://gain-wyj.cn/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://gain-wyj.cn/tags/python/"/>
+    
+      <category term="turtle" scheme="https://gain-wyj.cn/tags/turtle/"/>
+    
+  </entry>
   
   <entry>
     <title>Vue 3.0 来了，我们该做些什么？</title>

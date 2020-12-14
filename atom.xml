@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-13T07:30:33.913Z</updated>
+  <updated>2020-12-14T00:24:22.798Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机下SSL安全网络通信</title>
+    <link href="https://gain-wyj.cn/2020/12/14/ssl-secure-network-communication/"/>
+    <id>https://gain-wyj.cn/2020/12/14/ssl-secure-network-communication/</id>
+    <published>2020-12-14T00:21:38.000Z</published>
+    <updated>2020-12-14T00:24:22.798Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;SSL安全套接层&quot;&gt;&lt;a href=&quot;#SSL安全套接层&quot; class=&quot;headerlink&quot; title=&quot;SSL安全套接层&quot;&gt;&lt;/a&gt;SSL安全套接层&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;SSL安全套接层（Secure Socket
+        
+      
+    
+    </summary>
+    
+      <category term="计算机" scheme="https://gain-wyj.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="SSL" scheme="https://gain-wyj.cn/tags/SSL/"/>
+    
+      <category term="网络通信" scheme="https://gain-wyj.cn/tags/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/"/>
+    
+      <category term="安全" scheme="https://gain-wyj.cn/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>国粹——中国象棋震撼来袭，python的赶紧上车！</title>

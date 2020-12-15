@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-14T00:24:22.798Z</updated>
+  <updated>2020-12-15T07:57:49.028Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数学评价模型（二）：模糊综合评判</title>
+    <link href="https://gain-wyj.cn/2020/12/15/fuzzy-comprehensive-evaluation/"/>
+    <id>https://gain-wyj.cn/2020/12/15/fuzzy-comprehensive-evaluation/</id>
+    <published>2020-12-15T07:32:47.000Z</published>
+    <updated>2020-12-15T07:57:49.028Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;strong&gt;综合评判就是对受多个因素制约的事物或对象作出一个总的评价&lt;/strong&gt;，这是在日常生活和科研工作中经常遇到的问题，例如对学生的评价应该考虑到各门功课的成绩，但绝不能忽略品行和健康。在歌手大赛中，也不能只考虑艺术水平而忽略了歌手的文化素质。由于从多方面对事
+        
+      
+    
+    </summary>
+    
+      <category term="数学建模" scheme="https://gain-wyj.cn/categories/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/"/>
+    
+    
+      <category term="matlab" scheme="https://gain-wyj.cn/tags/matlab/"/>
+    
+      <category term="数学评价模型" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E5%AD%A6%E8%AF%84%E4%BB%B7%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>计算机下SSL安全网络通信</title>

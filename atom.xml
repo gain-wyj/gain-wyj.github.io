@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-15T07:57:49.028Z</updated>
+  <updated>2020-12-16T00:51:02.632Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>超详细 Hexo+Github 博客搭建教程</title>
+    <link href="https://gain-wyj.cn/2020/12/16/gain-wyj-blog/"/>
+    <id>https://gain-wyj.cn/2020/12/16/gain-wyj-blog/</id>
+    <published>2020-12-16T00:46:12.000Z</published>
+    <updated>2020-12-16T00:51:02.632Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;利用 Hexo + GitHub Page 搭建技术 blog ，实现了属于自己独有的博客，自己定义了一个域名：&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="计算机" scheme="https://gain-wyj.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+      <category term="Git" scheme="https://gain-wyj.cn/tags/Git/"/>
+    
+      <category term="github" scheme="https://gain-wyj.cn/tags/github/"/>
+    
+      <category term="hexo" scheme="https://gain-wyj.cn/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>数学评价模型（二）：模糊综合评判</title>

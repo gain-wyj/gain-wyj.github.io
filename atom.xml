@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-16T00:51:02.632Z</updated>
+  <updated>2020-12-17T03:36:09.984Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python风格代码荟萃</title>
+    <link href="https://gain-wyj.cn/2020/12/17/a-collection-of-style-codes/"/>
+    <id>https://gain-wyj.cn/2020/12/17/a-collection-of-style-codes/</id>
+    <published>2020-12-17T03:28:16.000Z</published>
+    <updated>2020-12-17T03:36:09.984Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今天总结一下在python中常用的一些风格代码，这些可能大家都会用，但有时可能也会忘记，在这里总结，工大家参考&lt;del&gt;~&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;先点赞在看，养成习惯&lt;del&gt;~&lt;/del&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blo
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://gain-wyj.cn/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://gain-wyj.cn/tags/python/"/>
+    
+  </entry>
   
   <entry>
     <title>超详细 Hexo+Github 博客搭建教程</title>

@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gain-wyj.cn/2020/12/21/matplotlib-visualization/</loc>
+    
+    <lastmod>2020-12-21T01:41:41.640Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gain-wyj.cn/2020/12/17/a-collection-of-style-codes/</loc>
     
     <lastmod>2020-12-17T03:36:09.984Z</lastmod>
@@ -135,14 +142,14 @@
   </url>
   
   <url>
-    <loc>https://gain-wyj.cn/archives/index.html</loc>
+    <loc>https://gain-wyj.cn/categories/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gain-wyj.cn/categories/index.html</loc>
+    <loc>https://gain-wyj.cn/archives/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     

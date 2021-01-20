@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://gain-wyj.cn/"/>
-  <updated>2020-12-23T07:52:49.242Z</updated>
+  <updated>2021-01-20T02:34:32.852Z</updated>
   <id>https://gain-wyj.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ODBC连接主流数据库的配置方法</title>
+    <link href="https://gain-wyj.cn/2021/01/20/odbc-mysql/"/>
+    <id>https://gain-wyj.cn/2021/01/20/odbc-mysql/</id>
+    <published>2021-01-20T02:15:09.000Z</published>
+    <updated>2021-01-20T02:34:32.852Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;本博文主要介绍在Uinx/Linux环境下通过ODBC连接几种主流数据库的配置方法。&lt;/p&gt;
+&lt;h1 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="MySQL" scheme="https://gain-wyj.cn/categories/MySQL/"/>
+    
+    
+      <category term="ODBC" scheme="https://gain-wyj.cn/tags/ODBC/"/>
+    
+      <category term="数据库" scheme="https://gain-wyj.cn/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
   
   <entry>
     <title>MATLAB函数解析：colormap——查看并设置当前颜色图</title>
